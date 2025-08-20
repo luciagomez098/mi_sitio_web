@@ -1,1 +1,11 @@
-# mi_sitio_web
+![alt text](hobbies..jpg) 
+![alt text](horario..jpg) 
+![alt text](musica..jpg) 
+![alt text](nacimiento..jpg)
+![alt text](<proyecto de vida..jpg>) 
+![alt text](screen.jpg) 
+![alt text](<sitio web...jpg>)
+![alt text](<sitio web..jpg>) 
+![alt text](<sitio web.jpg>)
+![alt text](educacion..jpg) 
+![alt text](familia..jpg)
